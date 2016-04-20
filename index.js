@@ -1,5 +1,4 @@
 'use strict';
-var _ = require('lodash');
 var gutil = require('gulp-util');
 var through = require('through2');
 var democase = require('democase');
